@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DalePShannon
 - 👀 I’m interested in demographic and economic data. 
-- 🌱 I’m currently learning API pulls and general data wrangling using R. 
+- 🌱 I’m working in R on API pulls/wrangling Fed data. Data support of enviro team.
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me dshannon@downstreamstrategies.com
 
